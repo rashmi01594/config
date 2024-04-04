@@ -2,7 +2,7 @@ build:
   version: 3.0
 
 loans:
-  message: "Welcome to EazyBank accounts related qa APIs File path"
+  message: "Welcome to EazyBank accounts related qa APIs git"
   contactDetails:
     name: "John Doe - QA"
     email: "john@eazybank.com"
