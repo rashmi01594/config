@@ -2,7 +2,7 @@ accounts:
   message: "Welcome to EazyBank accounts related qa APIs git"
   contactDetails:
     name: "John Doe - QA"
-    email: "${cipher}628b494a7507c0967152afc3231e08a4fa4eb11be9ec693cae21ee1284a0fd571950e586244ecf574cffcff918cd0b5b"
+    email: "{cipher}628b494a7507c0967152afc3231e08a4fa4eb11be9ec693cae21ee1284a0fd571950e586244ecf574cffcff918cd0b5b"
   onCallSupport:
     - (555) 555-1234
     - (555) 523-1345
