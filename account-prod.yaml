@@ -1,5 +1,5 @@
 accounts:
-  message: "Welcome to EazyBank accounts related prod APIs git test from actuator"
+  message: "Welcome to EazyBank accounts related prod APIs git test using cloud bus"
   contactDetails:
     name: "John Doe - Prod"
     email: "{cipher}3fe0056b1c2424fe8081a97f149beba8c0ee2cfc9f33888dded6cb9cb2a5e2323c78b72ec87c0777617ea2ce9f2a4dc1"
