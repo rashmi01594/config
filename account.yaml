@@ -1,5 +1,5 @@
 accounts:
-  message: "Welcome to EazyBank accounts related local APIs git"
+  message: "Welcome to EazyBank accounts related local APIs git test from actuator"
   contactDetails:
     name: "John Doe - Prod"
     email: "{cipher}8fc4e86c016bc6cdeee39fcfcae09c370c6eb0363817ee0e2f32357eebc30d0b451248efaf40a2f1b5ffe13ce4d49ca5"
